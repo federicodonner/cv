@@ -1,0 +1,123 @@
+.seccionWrapper{
+  width: 100%;
+  margin-top: 30px;
+  position: relative;
+}
+
+
+.banda{
+  height: 32px;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 27px;
+}
+
+.bandaAncha{
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 26px;
+}
+
+.sectionContent{
+  width: 850px;
+  margin: auto;
+  position: relative;
+}
+
+.titulo{
+  margin: auto;
+  font-size: 22pt;
+  font-weight: normal;
+}
+
+#federicoDonner{
+  position: absolute;
+  font-size: 20pt;
+  font-weight: normal;
+  color: white;
+  left: 550px;
+  top: 34px;
+}
+
+.text{
+  position: relative;
+  top: 30px;
+  width: 700px;
+  font-size: 12pt;
+  text-align: justify;
+}
+
+.fechas{
+  position: absolute;
+  top: 67px;
+  width: 100px;
+  font-size: 12pt;
+  line-height: 1.5;
+  text-align: right;
+}
+
+.datos{
+  position: relative;
+  top: 32px;
+  width: 600px;
+  font-size: 12pt;
+  line-height: 1.5;
+  left: 120px;
+}
+
+.link{
+  position: relative;
+}
+
+.datosAncha{
+    color: white;
+    position: absolute;
+    width: 500px;
+    font-size: 12pt;
+    font-weight: lighter;
+    margin-top: -30px;
+    left: 430px;
+    top: 70px;
+      text-align: justify;
+}
+
+.indent{
+  position: relative;
+  left: 40px;
+  font-style: italic;  
+}
+
+.imagen{
+  float: right;
+  position: relative;
+}
+
+.imagenFondo{
+  position: relative;
+}
+
+a{
+  color: #444444;
+}
+
+a:hover{
+  color: #bbbbbb;
+}
+
+a:visited{
+  color: #bbbbbb;
+}
+
+.diploma{
+  border: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+body{
+  margin: 0px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
